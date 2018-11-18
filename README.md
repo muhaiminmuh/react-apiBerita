@@ -3,6 +3,8 @@
 
 # Requirement
 
+* `JDK 8`
+* `SDK`
 * `nodeJS-v8.12.0`
 * `react-native@0.55.4`
 * `react-navigation`
