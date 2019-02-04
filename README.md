@@ -13,4 +13,4 @@
 
 1. Download project ini, Copy ke folder master React Native kalian
 2. Install API 
-3. Setting BASE URL di `halaman/berita.js`
+3. Setting URL di `halaman/berita.js`
