@@ -12,5 +12,5 @@
 # Installation
 
 1. Download project ini, Copy ke folder master React Native kalian
-2. Install API 
+2. Gunakan API yang disediakan sebagai Web Service 
 3. Setting URL di `halaman/berita.js`
